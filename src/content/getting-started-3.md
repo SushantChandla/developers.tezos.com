@@ -38,4 +38,6 @@ tutorials:
     link: https://github.com/TezosRio/TezosJ_plainJava
   - title: Netezos - .Net Standard 2.0 library
     link: https://github.com/baking-bad/netezos
+  - title: Tezster_dart - Flutter package for dApps
+    link: https://pub.dev/packages/tezster_dart
 ---
